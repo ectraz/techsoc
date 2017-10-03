@@ -1,0 +1,15 @@
+feed2js_ck = true;
+
+document.write('<div class="rss-box">');
+document.write('<p class="rss-title"><a class="rss-title" href="http://www.bbc.co.uk/news/" target="_self">BBC News - Technology</a><br /><span class="rss-item">BBC News - Technology</span></p>');
+document.write('<ul class="rss-items">');
+document.write('<li class="rss-item"><a class="rss-item" href="http://www.bbc.co.uk/news/business-41474329" target="_self">Equifax raises the impact of US data breach</a><br />');
+document.write('The credit report giant now estimates an extra 2.5 million US customers may have been affected.');
+document.write('</li>');
+document.write('<li class="rss-item"><a class="rss-item" href="http://www.bbc.co.uk/news/technology-41483492" target="_self">Microsoft axes Groove Music service</a><br />');
+document.write('The company\'s latest attempt to rival Spotify and Apple\'s iTunes will close in December.');
+document.write('</li>');
+document.write('<li class="rss-item"><a class="rss-item" href="http://www.bbc.co.uk/news/technology-41483412" target="_self">Companies face 50m euro fines in Germany for hate speech</a><br />');
+document.write('Critics have said that the law may lead to accidental censorship.');
+document.write('</li>');
+document.write('</ul></div>');
