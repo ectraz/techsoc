@@ -1,17 +1,44 @@
 <!DOCTYPE html>
-<html>
+
+    <html lang="en"> 
+
     <head>
-        <meta charset="utf-8">
-        <title>Technologies</title>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="" type="image/x-icon" /> 
+        <link rel="shortcut icon"" href="" type="image/x-icon" />
         <meta name="description" content="Information on current and emerging technologies">
-        <link rel="stylesheet" href="main.css">
+        <meta name="author" content="Tech Society" />
+        <link rel="stylesheet" href="style.css">
+        
+        <title>Technologies</title>
+
+            
+        
+        
     </head>
+
     <body>
+    
         <div content>
-            <script language="JavaScript" src="js/ExternalRSS.js" charset="UTF-8" type="text/javascript"></script>
-            <noscript>
-                <a href="js/ExternalRSS.js">View RSS feed</a>
-            </noscript>
+
+        <script language="JavaScript" src="js/ExternalRSS.js" charset="UTF-8" type="text/javascript"></script>
+
+        <noscript>
+
+            <a href="js/ExternalRSS.js">View RSS feed</a>
+
+        </noscript>
+
         </div>
+        
+        <div>
+        
+        Test. 
+        
+        </div>
+        
     </body>
+
 </html>
