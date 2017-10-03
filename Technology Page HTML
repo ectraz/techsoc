@@ -7,9 +7,11 @@
         <link rel="stylesheet" href="main.css">
     </head>
     <body>
-        <script language="JavaScript" src="../Java/ExternalRSS.js" charset="UTF-8" type="text/javascript"></script>
-        <noscript>
-            <a href="../Java/ExternalRSS.js">View RSS feed</a>
-        </noscript>
+        <div content>
+            <script language="JavaScript" src="../Java/ExternalRSS.js" charset="UTF-8" type="text/javascript"></script>
+            <noscript>
+                <a href="../Java/ExternalRSS.js">View RSS feed</a>
+            </noscript>
+        </div>
     </body>
 </html>
