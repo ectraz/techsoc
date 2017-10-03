@@ -9,35 +9,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
   </head>
 
-  <!-- NAVBAR -->
-  <header>
-    <div class="container text-center">
-      <h1>Tech Society</h1>
-    </div>
-    <ul class="nav justify-content-center">
-      <li class="nav-item">
-        <a class="nav-link" href="#">About Us</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Events</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Announcements</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Technologies</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Charity</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Join Us</a>
-      </li>
-    </ul>
-  </header>
+  
 
   <!-- FOOTER -->
-  <!-- showed the footer in the header, so recreated the footer in another file
   <footer>
     <div class="container">
       <div class="row">
@@ -76,7 +50,6 @@
         </div>
       </div>
   </footer>
--->
 
   <body>
 
