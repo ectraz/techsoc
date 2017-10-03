@@ -7,7 +7,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="" type="image/x-icon" /> 
-        <link rel="shortcut icon"" type="image/x-icon" />
+        <link rel="shortcut icon"" href="" type="image/x-icon" />
         <meta name="description" content="Information on current and emerging technologies">
         <meta name="author" content="Tech Society" />
         <link rel="stylesheet" href="style.css">
@@ -20,6 +20,8 @@
     </head>
 
     <body>
+    
+        <div content>
 
         <script language="JavaScript" src="js/ExternalRSS.js" charset="UTF-8" type="text/javascript"></script>
 
@@ -29,6 +31,7 @@
 
         </noscript>
 
+        </div>
         
         <div>
         
