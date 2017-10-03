@@ -8,9 +8,9 @@
     </head>
     <body>
         <div content>
-            <script language="JavaScript" src="../Java/ExternalRSS.js" charset="UTF-8" type="text/javascript"></script>
+            <script language="JavaScript" src="js/ExternalRSS.js" charset="UTF-8" type="text/javascript"></script>
             <noscript>
-                <a href="../Java/ExternalRSS.js">View RSS feed</a>
+                <a href="js/ExternalRSS.js">View RSS feed</a>
             </noscript>
         </div>
     </body>
