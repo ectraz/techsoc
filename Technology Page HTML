@@ -6,11 +6,11 @@
 
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="images/icon/balloons-256.ico" type="image/x-icon" /> 
-        <link rel="shortcut icon" href="images/icon/balloons-256.ico" type="image/x-icon" />
+        <link rel="icon" href="" type="image/x-icon" /> 
+        <link rel="shortcut icon"" type="image/x-icon" />
         <meta name="description" content="Information on current and emerging technologies">
         <meta name="author" content="Tech Society" />
-        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="style.css">
         
         <title>Technologies</title>
 
